@@ -1,0 +1,13 @@
+LÆRER:
+Brugernavn:
+Teacher
+
+Kodeord:
+Teacher10
+
+CENSOR:
+Brugernavn:
+Censor
+
+Kodeord:
+Censor10

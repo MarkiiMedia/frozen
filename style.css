@@ -1,0 +1,126 @@
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#tester {
+    background-color: green;
+    color:deeppink;
+}
+
+#leg {
+    background-color: yellow;
+    background-image: image();
+}
+
+body {
+    background-image: url("img/ice.png");
+}
+
+#score {
+    font-size: 60px;
+}
+
+.markii_frontpage_container {
+    padding: 20px;
+    justify-content: center;
+}
+
+.navbar-custom { 
+    background-color: rgba(255, 255, 255, 0.6);
+        
+        
+}
+
+nav a {
+    font-size: 1.8em;
+    color: #3A9CCD !important;
+    
+}
+
+
+
+/* Game 1 - Labyrint starter her */
+canvas {
+    border: 10px solid #41A6D4;
+}
+
+/* 
+Disse 2 herunder lavet specielt til lab spillet
+fordi spil og boks skal være ved siden af hinanden
+*/
+#canvas_lab {
+    margin-top: 20px;
+}
+
+.markii_special_gametitle {
+    float: right;
+    margin-right: 10%;
+    color: #41A6D4;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 5px solid #41A6D4;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gametitle {
+    color: #41A6D4;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid #41A6D4;
+    margin-bottom: 1%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+#countdown {
+    font-size: 25px;
+    color: #41A6D4;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.markii_timeLeft {
+    margin-bottom: 0px;
+}
+
+
+/* Game 1 - Labyrint slutter her */
+
+
+/* Forside (hvis logget ind) styling starter her */
+.markii_jumbotron_color_spacing {
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-top: 20px;
+    width:99%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.markii_mellemrum_forside {
+    margin-bottom: 2%;
+}
+
+/* Forside (hvis ikke logget ind) styling starter her */
+.markii_opret_bruger_knap {
+    margin-top: 10px;
+}
+
+
+
+/* Opret bruger siden */
+.markii_spacing_opret {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.markii_spacing_opret_overskrift {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+
